@@ -4,8 +4,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Built for Astro](https://img.shields.io/badge/Astro-5.0+-BC52EE.svg?style=flat-square)](https://astro.build)
 [![Chrome Built-in AI](https://img.shields.io/badge/Chrome%20AI-Gemini%20Nano-4285F4.svg?style=flat-square)](https://developer.chrome.com/docs/ai/built-in)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-code.brandonhubbard.com-brightgreen?logo=github)](https://code.brandonhubbard.com/astro-dev-island-hydration-advisor/)
 
 An intelligent Astro Dev Toolbar integration that audits island client directives (`client:load`, `client:visible`, `client:idle`, `client:only`, `client:ai-ready`) in real-time. It visualizes the viewport fold line, highlights sub-optimal hydration choices, and leverages **Chrome Built-in AI (Gemini Nano via `window.ai.languageModel`)** to deliver instant, on-device performance diagnostics and recommendations to boost your Core Web Vitals (TBT, INP, LCP).
+
+> 🎮 **Live Interactive Visualizer & Demo:** [astro-dev-island-hydration-advisor on code.brandonhubbard.com](https://code.brandonhubbard.com/astro-dev-island-hydration-advisor/)
 
 ---
 
